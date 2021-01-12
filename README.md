@@ -1,2 +1,2 @@
 # hello-world
-J'apprend à utiliser Github pour notre projet ce qui est trop cool!
+J'apprend à démonter la mère d'Antoine !
